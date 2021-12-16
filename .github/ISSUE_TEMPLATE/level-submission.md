@@ -1,7 +1,7 @@
 ---
 name: Level Submission
 about: Submit a level to the community repository
-title: ''
+title: 'SUBMISSION: [level name]'
 labels: ''
 assignees: ''
 
