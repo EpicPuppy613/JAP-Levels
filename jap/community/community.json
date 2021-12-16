@@ -1,0 +1,11 @@
+{
+	"name": "Community",
+	"difficulty": 2,
+	"levels": [
+		{
+			"name": "Test",
+			"id": "community1",
+			"file": "jap/community/test.json"
+		}
+	]
+}
